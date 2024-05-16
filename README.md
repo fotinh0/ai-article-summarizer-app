@@ -11,6 +11,8 @@
 
 This application enables you to summarize articles with just one click using the OpenAI model.
 
+Live URL: [fcsumz.netlify.app/](https://fcsumz.netlify.app/)
+
 ## <a name="tech-stack">Tech Stack</a>
 
 - React.js
