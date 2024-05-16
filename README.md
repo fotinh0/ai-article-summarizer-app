@@ -1,4 +1,4 @@
-# AI Article Summarizer App
+# AI Article Summarizer App [![Netlify Status](https://api.netlify.com/api/v1/badges/afd6eb39-ba93-42dc-ad15-ef836fc2e2bf/deploy-status)](https://app.netlify.com/sites/precious-pegasus-574637/deploys)
 
 ## 📋 <a name="table">Table of Contents</a>
 
